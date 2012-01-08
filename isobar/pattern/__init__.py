@@ -10,4 +10,5 @@ from markov import *
 from warp import *
 from automate import *
 from chordgen import *
+from dict import *
 
